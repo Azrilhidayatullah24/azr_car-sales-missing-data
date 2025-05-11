@@ -10,3 +10,6 @@ Tema yang dipilih: azr_car-sales-missing-data
 2. Mengecek Data yang Hilang (Missing Value)
 3. Mengatasi Duplikat Data
 4. Menyimpan Dataset yang Sudah Bersih & Siap Digunakan
+
+## Libraries
+pandas
