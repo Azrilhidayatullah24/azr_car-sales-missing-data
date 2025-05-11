@@ -1,7 +1,7 @@
 # azr_car-sales-missing-data
 ==
 Tugas Digital Skill Fair 39.0
-*Nama :
+
 Tema yang dipilih: azr_car-sales-missing-data
 - Azril Hidayatullah
   
